@@ -1,0 +1,4 @@
+alphabet.txt SEEK -1 2:
+alphabet.txt WRITE 26 0:abcdefghijklmnopqrstuvwxyz
+alphabet.txt SEEK 0 5:
+alphabet.txt SEEK 0 26:

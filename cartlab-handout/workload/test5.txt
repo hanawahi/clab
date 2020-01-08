@@ -1,0 +1,2 @@
+alphabet.txt WRITE 26 0:abcdefghijklmnopqrstuvwxyz
+digit.txt WRITE 10 0:0123456789

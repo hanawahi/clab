@@ -1,0 +1,5 @@
+alphabet.txt WRITE 5 0:ABCDE
+alphabet.txt WRITE 5 0:FGHIJ
+alphabet.txt WRITE 16 0:klmnopqrstuvwxyz
+alphabet.txt SEEK 0 0:
+alphabet.txt WRITE 10 0:abcdefghij

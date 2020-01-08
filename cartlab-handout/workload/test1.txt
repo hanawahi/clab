@@ -1,0 +1,1 @@
+alphabet.txt WRITE 26 0:abcdefghijklmnopqrstuvwxyz

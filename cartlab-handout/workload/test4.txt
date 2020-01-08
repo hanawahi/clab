@@ -1,0 +1,5 @@
+alphabet.txt WRITE 26 0:abcdefghijklmnopqrstuvwxyz
+alphabet.txt SEEK 0 0:
+alphabet.txt READ 10 10:
+alphabet.txt READ 20 16:
+alphabet.txt READ 5 0:
